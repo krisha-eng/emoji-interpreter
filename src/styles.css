@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+div span {
+  cursor: pointer;
+  padding: 0.5rem;
+}
+
+.div-meaning {
+  font-size: 2rem;
+}
